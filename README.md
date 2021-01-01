@@ -1,1 +1,2 @@
-# fruit-collector-2-debug
+# C40-Project
+ Debugged fruit collector 2
